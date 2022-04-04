@@ -11,6 +11,7 @@
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/drawable/ic_fondoazul2.xml" value="0.3828125" />
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3212962962962963" />
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/drawable/ic_vector_8.xml" value="0.3212962962962963" />
+        <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_formulario_registro_vehiculo.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_img_inicial1.xml" value="0.2" />
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_img_inicial2.xml" value="0.264" />
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_img_inicial3.xml" value="0.36666666666666664" />
@@ -19,7 +20,8 @@
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_login.xml" value="0.264" />
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_main.xml" value="0.23822463768115942" />
         <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_registro_principal.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_registro_usuario.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_registro_transportador.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/wposs/AndroidStudioProjects/Sotci1/app/src/main/res/layout/activity_registro_usuario.xml" value="0.264" />
       </map>
     </option>
   </component>

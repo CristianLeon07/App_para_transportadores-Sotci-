@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Sotci1">
         <activity
+            android:name=".FormularioRegistroVehiculo"
+            android:exported="true" />
+        <activity
             android:name=".RegistroTransportador"
             android:exported="true" />
         <activity
